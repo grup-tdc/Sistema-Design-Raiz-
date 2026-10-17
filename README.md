@@ -1,4 +1,4 @@
-# Design-Raiz
+# Sistema Design-Raiz
 
 Estúdio de design para o Claude Code. Um plugin global com:
 
@@ -19,7 +19,7 @@ o resultado é sempre renderizado e olhado, e a validação é feita por outro a
 No Claude Code:
 
 ```
-/plugin marketplace add gittdcadvogados/Design-Raiz
+/plugin marketplace add grup-tdc/Sistema-Design-Raiz-
 /plugin install design-raiz@design-raiz
 ```
 

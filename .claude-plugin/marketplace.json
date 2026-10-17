@@ -2,7 +2,7 @@
   "name": "design-raiz",
   "description": "Marketplace do estúdio Design-Raiz: agentes de direção de arte e crítica de design.",
   "owner": {
-    "name": "gittdcadvogados"
+    "name": "grup-tdc"
   },
   "plugins": [
     {
