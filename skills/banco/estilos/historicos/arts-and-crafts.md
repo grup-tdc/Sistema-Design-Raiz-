@@ -1,17 +1,9 @@
 ---
 titulo: Arts and Crafts
 periodo: c. 1860–1914 · Inglaterra (Londres, Kelmscott, Birmingham), depois Escócia, EUA e Europa Central
-palavras_de_carater: artesanal, honesto, natural, ornamento, oficio, livro, padrao, comunidade, materia
-quando_consultar: Quando o projeto precisa transmitir feito-a-mao, origem, cuidado com material e valor de oficio, sem cair no rustico generico.
-fontes:
-  - Philip B. Meggs e Alston W. Purvis, "História do design gráfico", Cosac Naify, 2009
-  - Richard Hollis, "Design gráfico: uma história concisa", Martins Fontes
-  - Nikolaus Pevsner, "Os pioneiros do desenho moderno: de William Morris a Walter Gropius", Martins Fontes
-  - Fiona MacCarthy, "William Morris: A Life for Our Time", Faber and Faber, 1994
-  - Karen Livingstone e Linda Parry (orgs.), "International Arts and Crafts", V&A Publications, 2005
-  - Victoria and Albert Museum, https://collections.vam.ac.uk/
-  - William Morris Gallery, https://www.wmgallery.org.uk/
-  - Internet Archive (Kelmscott Chaucer digitalizado), https://archive.org/
+palavras_de_carater: artesanal, honesto, natural, ornamento, ofício, livro, padrão, comunidade, matéria
+quando_consultar: Quando o projeto precisa transmitir feito à mão, origem, cuidado com material e valor de ofício, sem cair no rústico genérico.
+fontes: Philip B. Meggs e Alston W. Purvis, "História do design gráfico", Cosac Naify, 2009; Richard Hollis, "Design gráfico: uma história concisa", Martins Fontes; Nikolaus Pevsner, "Os pioneiros do desenho moderno: de William Morris a Walter Gropius", Martins Fontes; Fiona MacCarthy, "William Morris: A Life for Our Time", Faber and Faber, 1994; Karen Livingstone e Linda Parry (orgs.), "International Arts and Crafts", V&A Publications, 2005; Victoria and Albert Museum https://collections.vam.ac.uk/; William Morris Gallery https://www.wmgallery.org.uk/; Internet Archive (Kelmscott Chaucer digitalizado) https://archive.org/
 ---
 # Arts and Crafts
 

@@ -1,17 +1,9 @@
 ---
 titulo: Secessão Vienense (Wiener Secession) e Wiener Werkstätte
 periodo: 1897–c. 1915 (Wiener Werkstätte até 1932) · Viena, Áustria
-palavras_de_carater: geometrico, quadrado, modular, ornamento-contido, elegante, grade, ouro, monograma, rigor
+palavras_de_carater: geométrico, quadrado, modular, ornamento contido, elegante, grade, ouro, monograma, rigor
 quando_consultar: Quando a direção quer elegância com estrutura, ornamento disciplinado por grade e quadrado, ou a ponte entre o decorativo e o moderno.
-fontes:
-  - Philip B. Meggs e Alston W. Purvis, "História do design gráfico", Cosac Naify, 2009
-  - Richard Hollis, "Design gráfico: uma história concisa", Martins Fontes
-  - Carl E. Schorske, "Viena fin-de-siècle: política e cultura", Companhia das Letras / Editora da Unicamp, 1988
-  - Jane Kallir, "Viennese Design and the Wiener Werkstätte", George Braziller, 1986
-  - MAK Sammlung Online, https://sammlung.mak.at/
-  - ANNO, Biblioteca Nacional da Áustria (revista Ver Sacrum digitalizada), https://anno.onb.ac.at/
-  - The Wolfsonian–FIU, catálogo digital, https://digital.wolfsonian.org/
-  - Secession (instituição atual), https://www.secession.at/
+fontes: Philip B. Meggs e Alston W. Purvis, "História do design gráfico", Cosac Naify, 2009; Richard Hollis, "Design gráfico: uma história concisa", Martins Fontes; Carl E. Schorske, "Viena fin-de-siècle: política e cultura", Companhia das Letras / Editora da Unicamp, 1988; Jane Kallir, "Viennese Design and the Wiener Werkstätte", George Braziller, 1986; MAK Sammlung Online https://sammlung.mak.at/; ANNO, Biblioteca Nacional da Áustria (revista Ver Sacrum digitalizada) https://anno.onb.ac.at/; The Wolfsonian–FIU, catálogo digital https://digital.wolfsonian.org/; Secession (instituição atual) https://www.secession.at/
 ---
 # Secessão Vienense
 

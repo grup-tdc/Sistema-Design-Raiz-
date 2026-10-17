@@ -1,17 +1,9 @@
 ---
 titulo: Art Nouveau
 periodo: c. 1890–1910 · Paris, Bruxelas, Nancy, Munique (Jugendstil), Barcelona (Modernisme), Praga, Glasgow, também Brasil e Argentina
-palavras_de_carater: organico, curva, sinuoso, feminino, botanico, ornamental, sensual, fluido, decorativo
+palavras_de_carater: orgânico, curva, sinuoso, botânico, ornamental, sensual, fluido, decorativo, linha
 quando_consultar: Quando a direção pede fluidez, natureza em movimento e sedução decorativa, e é preciso saber como usar a curva com estrutura em vez de virar enfeite de época.
-fontes:
-  - Philip B. Meggs e Alston W. Purvis, "História do design gráfico", Cosac Naify, 2009
-  - Richard Hollis, "Design gráfico: uma história concisa", Martins Fontes
-  - Paul Greenhalgh (org.), "Art Nouveau 1890–1914", V&A Publications, 2000
-  - Nikolaus Pevsner, "Os pioneiros do desenho moderno: de William Morris a Walter Gropius", Martins Fontes
-  - Victoria and Albert Museum, https://collections.vam.ac.uk/
-  - MoMA Collection, https://www.moma.org/collection/
-  - Gallica (BnF), https://gallica.bnf.fr/
-  - Museum für Gestaltung Zürich eMuseum, https://www.emuseum.ch/
+fontes: Philip B. Meggs e Alston W. Purvis, "História do design gráfico", Cosac Naify, 2009; Richard Hollis, "Design gráfico: uma história concisa", Martins Fontes; Paul Greenhalgh (org.), "Art Nouveau 1890–1914", V&A Publications, 2000; Nikolaus Pevsner, "Os pioneiros do desenho moderno: de William Morris a Walter Gropius", Martins Fontes; Victoria and Albert Museum https://collections.vam.ac.uk/; MoMA Collection https://www.moma.org/collection/; Gallica (BnF) https://gallica.bnf.fr/; Museum für Gestaltung Zürich eMuseum https://www.emuseum.ch/
 ---
 # Art Nouveau
 

@@ -1,17 +1,9 @@
 ---
 titulo: Art Déco
 periodo: c. 1920–1939 · Paris (Exposição de 1925), Nova York, Miami, Londres, também Rio de Janeiro, São Paulo e Goiânia
-palavras_de_carater: glamour, geometria, simetria, luxo, velocidade, escalonado, metalico, industrial, otimismo
+palavras_de_carater: glamour, geometria, simetria, luxo, velocidade, escalonado, metálico, industrial, otimismo
 quando_consultar: Quando a marca quer sofisticação com energia moderna, luxo legível ou referência a cinema, viagem e máquina, e é preciso evitar o pastiche de "festa anos 20".
-fontes:
-  - Philip B. Meggs e Alston W. Purvis, "História do design gráfico", Cosac Naify, 2009
-  - Richard Hollis, "Design gráfico: uma história concisa", Martins Fontes
-  - Charlotte Benton, Tim Benton e Ghislaine Wood (orgs.), "Art Deco 1910–1939", V&A Publications, 2003
-  - Bevis Hillier, "Art Deco of the 20s and 30s", Studio Vista, 1968
-  - Victoria and Albert Museum, https://collections.vam.ac.uk/
-  - The Wolfsonian–FIU, catálogo digital, https://digital.wolfsonian.org/
-  - Cooper Hewitt, https://collection.cooperhewitt.org/
-  - Fonts In Use, https://fontsinuse.com/
+fontes: Philip B. Meggs e Alston W. Purvis, "História do design gráfico", Cosac Naify, 2009; Richard Hollis, "Design gráfico: uma história concisa", Martins Fontes; Charlotte Benton, Tim Benton e Ghislaine Wood (orgs.), "Art Deco 1910–1939", V&A Publications, 2003; Bevis Hillier, "Art Deco of the 20s and 30s", Studio Vista, 1968; Victoria and Albert Museum https://collections.vam.ac.uk/; The Wolfsonian–FIU, catálogo digital https://digital.wolfsonian.org/; Cooper Hewitt https://collection.cooperhewitt.org/; Fonts In Use https://fontsinuse.com/
 ---
 # Art Déco
 

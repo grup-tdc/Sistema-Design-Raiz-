@@ -1,17 +1,9 @@
 ---
 titulo: Futurismo
 periodo: 1909–c. 1944 · Itália (Milão, Roma, Rovereto), com ecos na Rússia (cubofuturismo) e em Portugal e Brasil
-palavras_de_carater: velocidade, dinamismo, ruido, diagonal, maquina, simultaneidade, explosao, onomatopeia, agressivo
+palavras_de_carater: velocidade, dinamismo, ruído, diagonal, máquina, simultaneidade, explosão, onomatopeia, agressivo
 quando_consultar: Quando a peça precisa de energia, movimento e urgência tipográfica, ou de texto que "faz barulho" na página, e é preciso separar a forma do conteúdo político do movimento.
-fontes:
-  - Philip B. Meggs e Alston W. Purvis, "História do design gráfico", Cosac Naify, 2009
-  - Richard Hollis, "Design gráfico: uma história concisa", Martins Fontes
-  - Annateresa Fabris, "Futurismo: uma poética da modernidade", Perspectiva/Edusp, 1987
-  - Johanna Drucker, "The Visible Word: Experimental Typography and Modern Art, 1909–1923", University of Chicago Press, 1994
-  - MoMA Collection, https://www.moma.org/collection/
-  - Letterform Archive, Online Archive, https://letterformarchive.org/online-archive/
-  - Internet Archive, https://archive.org/
-  - Gallica (BnF), https://gallica.bnf.fr/
+fontes: Philip B. Meggs e Alston W. Purvis, "História do design gráfico", Cosac Naify, 2009; Richard Hollis, "Design gráfico: uma história concisa", Martins Fontes; Annateresa Fabris, "Futurismo: uma poética da modernidade", Perspectiva/Edusp, 1987; Johanna Drucker, "The Visible Word: Experimental Typography and Modern Art, 1909–1923", University of Chicago Press, 1994; MoMA Collection https://www.moma.org/collection/; Letterform Archive, Online Archive https://letterformarchive.org/online-archive/; Internet Archive https://archive.org/; Gallica (BnF) https://gallica.bnf.fr/
 ---
 # Futurismo
 
