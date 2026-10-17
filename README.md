@@ -5,7 +5,7 @@ Estúdio de design para o Claude Code. Um plugin global com:
 - **`diretor-de-arte`**: agente que cria e refaz peças (web/UI, posts, pôsteres, vídeo/motion, impresso, identidade, slides) com método: brief → conceito → estrutura → detalhe → render → verificação.
 - **`critico`**: agente **só leitura** que renderiza, mede e julga com um portão de qualidade. Quem produz não aprova.
 - **`/design-raiz:estudio`**: comando que orquestra o ciclo diretor ⇄ crítico (até 3 rodadas) e escala para você o que for decisão sua.
-- **Banco de conhecimento** (`skills/banco/`): 25 referências sobre composição e grades, tipografia, cor, UX/UI, formatos, conceito e crítica, escritas a partir de livros e dos melhores repositórios avaliados (fontes citadas em cada arquivo).
+- **Banco de conhecimento** (`skills/banco/`): 26 referências sobre composição e grades, tipografia, cor, UX/UI, formatos, conceito e crítica, escritas a partir de livros e dos melhores repositórios avaliados (fontes citadas em cada arquivo).
 - **Verificações determinísticas** (`skills/metodo/scripts/`), que não usam IA: render em PNG, auditoria de contraste, escala, fontes, paleta, espaçamento, alinhamento, transbordo e zona segura; quadros de vídeo; sobreposição de grade e zonas.
 
 ## Por que existe
