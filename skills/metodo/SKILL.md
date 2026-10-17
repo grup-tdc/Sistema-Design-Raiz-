@@ -49,8 +49,12 @@ série a que pertence. Consulte `banco/conceito/do-brief-ao-conceito.md`.
 - **Primeiro o que se reutiliza**: se `sistema.md` tem o formato, a grade, a escala e as posições fixas vêm de lá.
   Só invente estrutura para formato novo ou quando o brief pedir ruptura. Nesse caso, registre por quê.
 - 3–4 palavras de caráter → consequências visuais concretas. Sem marca fechada: 2–3 direções do mundo do público, escolha com critério.
-- Contrato: conceito, reutilizado × novo, hierarquia pretendida (1º, 2º, 3º), grade, escala, papéis de cor,
-  regra de espaçamento, proibições, critério de sucesso.
+- **Repertório**: cruze as palavras de caráter com o índice de estilos (`banco/SKILL.md` → Estilos), leia as fichas de 2–3
+  candidatos e siga `banco/conceito/estilo-e-referencia.md`: extraia **princípios**, traduza para o meio e a marca,
+  calibre o olho com referências reais dos acervos (`banco/referencias/`), passe no teste de pastiche.
+  Com `DESIGN.md` definido, o estilo atua em composição, ritmo e gesto; fontes e cores da marca ficam.
+- Contrato: conceito, reutilizado × novo, estilos e princípios usados (com referências), hierarquia pretendida (1º, 2º, 3º),
+  grade, escala, papéis de cor, regra de espaçamento, proibições, critério de sucesso.
 - Leia `banco/conceito/anti-generico.md` **antes** de produzir.
 
 ## 3. Estrutura antes do detalhe
