@@ -3,7 +3,7 @@ titulo: Neobrutalismo (neubrutalism)
 periodo: c. 2020–hoje · interfaces web e apps, SaaS, marcas digitais, redes sociais
 palavras_de_carater: chapado, contornado, lúdico, direto, gráfico, atrevido, tátil, legível, pop
 quando_consultar: Quando a interface precisa de personalidade forte e leitura imediata sem cair no SaaS genérico de gradiente e sombra difusa.
-fontes: "Neubrutalism is taking over the web", UX Collective, 29 mar. 2022, https://uxdesign.cc/neubrutalism-is-taking-over-the-web-e9d09e0fe441 ; neobrutalism.dev (componentes React/Tailwind sobre shadcn/ui, MIT), https://www.neobrutalism.dev/ ; Nielsen Norman Group, "Brutalism and Antidesign", https://www.nngroup.com/articles/brutalism-antidesign/ ; https://brutalistwebsites.com/
+fontes: "Neubrutalism is taking over the web", UX Collective, 29 mar. 2022, https://uxdesign.cc/neubrutalism-is-taking-over-the-web-e9d09e0fe441 ; neobrutalism.dev (componentes React/Tailwind sobre shadcn/ui, MIT), https://www.neobrutalism.dev/ ; Nielsen Norman Group, "Neobrutalism: Definition and Best Practices", https://www.nngroup.com/articles/neobrutalism/ ; Nielsen Norman Group, "Brutalism and Antidesign", https://www.nngroup.com/articles/brutalism-antidesign/ ; https://brutalistwebsites.com/
 ---
 # Neobrutalismo
 
@@ -60,5 +60,5 @@ Aproximação; o papel importa mais que o valor:
 - Hype4 (agência), citada como exemplo do estilo.
 - neobrutalism.dev — biblioteca de componentes: https://www.neobrutalism.dev/
 - Pascal Deville, https://brutalistwebsites.com/ — para ver a raiz menos domesticada.
-- NN/g, "Brutalism and Antidesign": https://www.nngroup.com/articles/brutalism-antidesign/
+- NN/g, "Neobrutalism: Definition and Best Practices": https://www.nngroup.com/articles/neobrutalism/ e "Brutalism and Antidesign": https://www.nngroup.com/articles/brutalism-antidesign/
 - A ficha é repertório; a marca do projeto vence.
