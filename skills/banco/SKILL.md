@@ -19,6 +19,8 @@ O banco ensina a pensar e executar; **a estética e a marca vêm do `DESIGN.md` 
 | Landing page, site | `ux-ui/web-e-landing`, `composicao/grades`, `tipografia/escala-e-hierarquia`, `ux-ui/heuristicas-e-leis` |
 | Interface, app, formulário, dashboard | `ux-ui/interface-e-componentes`, `ux-ui/heuristicas-e-leis`, `composicao/gestalt-e-agrupamento` |
 | Impresso (cartão, folder, cartaz, papelaria) | `formatos/impresso`, `cor/cor-para-impresso-e-video`, `composicao/grades` |
+| Livro, apostila, relatório, e-book PDF | `formatos/editorial-e-documentos`, `composicao/grades`, `tipografia/medida-entrelinha-e-leitura`, `formatos/impresso` |
+| Certificado, crachá, convite nominal (dados variáveis) | `formatos/editorial-e-documentos`, `composicao/hierarquia-e-peso-visual`, `formatos/impresso` |
 | Logotipo, identidade, manual, DESIGN.md | `formatos/identidade-visual`, `tipografia/escolha-e-pareamento`, `cor/estrategia-e-papeis`, `cor/construcao-de-paleta` |
 | Slides | `formatos/apresentacoes`, `composicao/hierarquia-e-peso-visual` |
 | Escolher/corrigir fontes | `tipografia/escolha-e-pareamento`, `tipografia/escala-e-hierarquia` |
@@ -58,6 +60,7 @@ O banco ensina a pensar e executar; **a estética e a marca vêm do `DESIGN.md` 
 - `post-e-poster` — proporções, recorte da grade do perfil, carrossel, distância de leitura, miniatura.
 - `video-e-motion` — zonas seguras por plataforma (as mesmas de `scripts/zonas.json`), texto e legenda, princípios de animação, gancho.
 - `impresso` — sangria, segurança, resolução, CMYK, dobras, tamanhos ISO/BR, checklist de fechamento.
+- `editorial-e-documentos` — livro/apostila (spread, linha de base e registro, medianiz por encadernação, lombada, cadernos, aberturas, fólios, figuras, notas), certificado, crachá, dados variáveis (pior caso).
 - `identidade-visual` — construção de logo, proteção, redução mínima, versões, sistema de marca, coerência entre peças.
 - `apresentacoes` — 16:9, uma ideia por slide, grade de slide, texto projetado, modelo mestre.
 
