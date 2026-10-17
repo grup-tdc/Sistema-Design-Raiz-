@@ -1,0 +1,4 @@
+renders/
+quadros-*/
+node_modules/
+.DS_Store

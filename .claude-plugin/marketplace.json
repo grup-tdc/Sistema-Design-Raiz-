@@ -1,0 +1,14 @@
+{
+  "name": "design-raiz",
+  "description": "Marketplace do estúdio Design-Raiz: agentes de direção de arte e crítica de design.",
+  "owner": {
+    "name": "gittdcadvogados"
+  },
+  "plugins": [
+    {
+      "name": "design-raiz",
+      "source": "./",
+      "description": "Estúdio de design com diretor de arte, crítico independente, banco de conhecimento e verificações determinísticas."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "design-raiz",
+  "version": "0.1.0",
+  "description": "Estúdio de design: agente diretor-de-arte e agente critico (só leitura), banco de conhecimento de design (diagramação, tipografia, cor, UX/UI, formatos, conceito, crítica) e verificações determinísticas (render, auditoria, contraste, grade e zona segura). Agnóstico de marca: a identidade vem do DESIGN.md de cada projeto.",
+  "author": { "name": "gittdcadvogados" },
+  "keywords": ["design", "diagramacao", "tipografia", "ux", "ui", "motion", "impresso", "identidade-visual"]
+}

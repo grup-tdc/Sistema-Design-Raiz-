@@ -1,0 +1,71 @@
+{
+  "_nota": "Áreas onde NÃO pode haver texto crítico, em px no quadro de referência (escaladas para o tamanho real). Nenhuma plataforma publica zona oficial para posts orgânicos: valores conservadores (maior valor plausível) de especificações de anúncios Meta/Google e ferramentas de terceiros, pesquisados em 2026-10. Revise quando as interfaces mudarem. Detalhes e faixas em banco/formatos/video-e-motion.md e post-e-poster.md.",
+  "reels": {
+    "referencia": [1080, 1920],
+    "proibidas": [
+      { "nome": "topo (status e cabeçalho)", "x": 0, "y": 0, "w": 1080, "h": 270 },
+      { "nome": "base (legenda, perfil, áudio)", "x": 0, "y": 1250, "w": 1080, "h": 670 },
+      { "nome": "lateral esquerda", "x": 0, "y": 270, "w": 65, "h": 980 },
+      { "nome": "lateral direita (botões)", "x": 960, "y": 270, "w": 120, "h": 980 }
+    ]
+  },
+  "stories": {
+    "referencia": [1080, 1920],
+    "proibidas": [
+      { "nome": "topo (barra de progresso e perfil)", "x": 0, "y": 0, "w": 1080, "h": 250 },
+      { "nome": "base (resposta e ações)", "x": 0, "y": 1580, "w": 1080, "h": 340 },
+      { "nome": "lateral esquerda", "x": 0, "y": 250, "w": 65, "h": 1330 },
+      { "nome": "lateral direita", "x": 1015, "y": 250, "w": 65, "h": 1330 }
+    ]
+  },
+  "tiktok": {
+    "referencia": [1080, 1920],
+    "proibidas": [
+      { "nome": "topo (abas)", "x": 0, "y": 0, "w": 1080, "h": 260 },
+      { "nome": "base (legenda e música)", "x": 0, "y": 1260, "w": 1080, "h": 660 },
+      { "nome": "lateral esquerda", "x": 0, "y": 260, "w": 65, "h": 1000 },
+      { "nome": "lateral direita (botões)", "x": 880, "y": 260, "w": 200, "h": 1000 }
+    ]
+  },
+  "shorts": {
+    "referencia": [1080, 1920],
+    "proibidas": [
+      { "nome": "topo", "x": 0, "y": 0, "w": 1080, "h": 290 },
+      { "nome": "base (título e canal)", "x": 0, "y": 1240, "w": 1080, "h": 680 },
+      { "nome": "lateral esquerda", "x": 0, "y": 290, "w": 50, "h": 950 },
+      { "nome": "lateral direita (botões)", "x": 880, "y": 290, "w": 200, "h": 950 }
+    ]
+  },
+  "vertical-universal": {
+    "referencia": [1080, 1920],
+    "proibidas": [
+      { "nome": "topo", "x": 0, "y": 0, "w": 1080, "h": 290 },
+      { "nome": "base", "x": 0, "y": 1240, "w": 1080, "h": 680 },
+      { "nome": "lateral esquerda", "x": 0, "y": 290, "w": 65, "h": 950 },
+      { "nome": "lateral direita", "x": 880, "y": 290, "w": 200, "h": 950 }
+    ]
+  },
+  "capa-reel": {
+    "referencia": [1080, 1920],
+    "proibidas": [
+      { "nome": "fora do recorte 3:4 da grade do perfil (topo)", "x": 0, "y": 0, "w": 1080, "h": 300 },
+      { "nome": "fora do recorte 3:4 da grade do perfil (base)", "x": 0, "y": 1380, "w": 1080, "h": 540 }
+    ]
+  },
+  "feed-4x5": {
+    "referencia": [1080, 1350],
+    "proibidas": [
+      { "nome": "topo", "x": 0, "y": 0, "w": 1080, "h": 80 },
+      { "nome": "base", "x": 0, "y": 1270, "w": 1080, "h": 80 },
+      { "nome": "lateral esquerda (corte da grade 3:4)", "x": 0, "y": 80, "w": 100, "h": 1190 },
+      { "nome": "lateral direita (corte da grade 3:4)", "x": 980, "y": 80, "w": 100, "h": 1190 }
+    ]
+  },
+  "feed-1x1": {
+    "referencia": [1080, 1080],
+    "proibidas": [
+      { "nome": "lateral esquerda (corte da grade 3:4)", "x": 0, "y": 0, "w": 180, "h": 1080 },
+      { "nome": "lateral direita (corte da grade 3:4)", "x": 900, "y": 0, "w": 180, "h": 1080 }
+    ]
+  }
+}
