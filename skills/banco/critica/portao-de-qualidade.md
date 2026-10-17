@@ -91,6 +91,12 @@ Marque cada item: ✔ passa · ✘ falha · — não se aplica · ? não verific
 - J3. Nenhum texto de preenchimento (lorem ipsum, "Título aqui") e nenhum dado inventado apresentado como real.
 - J4. Ortografia e acentuação revisadas.
 
+**K. Coerência com a série (projeto com `design/sistema.md` ou peças anteriores)**
+- K1. Grade, margens e escala tipográfica são as registradas em `sistema.md` para este formato (ou a diferença está registrada em `decisoes.md`).
+- K2. Posta lado a lado com as 2–3 peças aprovadas mais recentes do mesmo formato (renders em `design/pecas/*/renders/`), a peça parece da mesma família: mesma posição de logo e assinatura, mesmo tratamento de imagem, mesma lógica de cor e de destaque.
+- K3. O que varia entre as peças é o que o `sistema.md` permite variar (conteúdo, imagem, cor de destaque da série), não a estrutura.
+- K4. Elementos recorrentes (rótulos, CTA, numeração, assinatura) têm o mesmo tamanho, peso e distância das bordas que nas peças anteriores; medir no render, não estimar.
+
 ### Reprovação automática
 
 Qualquer um destes leva a REPROVADO, independentemente do restante:
@@ -98,6 +104,7 @@ Qualquer um destes leva a REPROVADO, independentemente do restante:
 - Contraste de texto abaixo de 4,5:1 (normal) ou 3:1 (grande) em conteúdo essencial.
 - Texto ou elemento essencial em zona proibida da plataforma, ou fora da área de corte.
 - Fonte ou cor fora do DESIGN.md sem decisão registrada.
+- Grade, margens ou escala diferentes das do `design/sistema.md` para o mesmo formato, sem decisão registrada em `decisoes.md`.
 - Texto cortado, transbordando ou com erro de ortografia em título ou CTA.
 - Dimensão do arquivo diferente da pedida.
 - Hierarquia invertida (B1 falha) na ação desejada.
@@ -105,7 +112,7 @@ Qualquer um destes leva a REPROVADO, independentemente do restante:
 
 ### Vereditos
 
-- **APROVADO**: nenhuma reprovação automática, nenhum ✘ em A, B, E, F, G; no máximo dois ✘ de nível P3.
+- **APROVADO**: nenhuma reprovação automática, nenhum ✘ em A, B, E, F, G, K; no máximo dois ✘ de nível P3.
 - **APROVADO COM CORREÇÕES**: nenhuma reprovação automática; existem ✘ em C, D, I ou J que não comprometem a ação desejada. As correções são listadas e devem ser aplicadas antes da entrega, sem nova rodada completa de portão (só reconferir os itens corrigidos).
 - **REPROVADO**: qualquer reprovação automática, ou ✘ em A ou B, ou mais de cinco ✘ no total.
 
@@ -116,7 +123,7 @@ Itens marcados "?" não são ignorados: se um item "?" for de reprovação autom
 ```
 PORTÃO DE QUALIDADE — [peça] — [data]
 Render(s) olhado(s): [arquivos/quadros, dimensões]
-Base: contrato [sim/presumido] · DESIGN.md [lido/inexistente]
+Base: contrato [sim/presumido] · DESIGN.md [lido/inexistente] · sistema.md [lido/inexistente] · peças comparadas: [lista]
 
 VEREDITO: APROVADO | APROVADO COM CORREÇÕES | REPROVADO
 Motivo em uma frase: ...

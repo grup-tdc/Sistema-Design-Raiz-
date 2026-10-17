@@ -39,20 +39,36 @@ declara isso como **não verificado**; ele não finge o resultado.
 
 ## Uso
 
-1. Em cada projeto, crie um `DESIGN.md` na raiz a partir de [`templates/DESIGN.md`](templates/DESIGN.md). Também pode pedir:
-   *"use o diretor-de-arte para montar o DESIGN.md deste projeto"*. Ele propõe e você aprova.
-   Se o projeto já tem um padrão visual citado no `CLAUDE.md`, o agente usa esse.
-2. Peça normalmente (*"refaça este post"*, *"diagrame este folder A4 em 3 dobras"*) ou use `/design-raiz:estudio <pedido>`.
-3. Você recebe os renders, o veredito do crítico, o que foi medido e o que não pôde ser verificado.
+1. Peça normalmente (*"refaça este post"*, *"diagrame este folder A4 em 3 dobras"*) ou use `/design-raiz:estudio <pedido>`.
+2. Na primeira vez num projeto, o agente cria a pasta `design/` (modelos em [`templates/design/`](templates/design/)).
+   Se o projeto já tem um padrão visual citado no `CLAUDE.md`, ele aponta para esse arquivo. Se não tem marca nenhuma,
+   ele propõe o `DESIGN.md` e você aprova.
+3. Você recebe os renders, o veredito do crítico, o que foi medido, o que não pôde ser verificado e o que entrou no sistema do projeto.
+
+## Memória do projeto: de onde vem a coerência
+
+O agente não estrutura só a peça, estrutura o projeto. Em cada projeto ele mantém:
+
+```
+design/
+├── DESIGN.md      quem a marca é (você aprova)
+├── sistema.md     como a marca já foi diagramada, por formato: grade, escala, posições fixas, o que pode variar
+├── decisoes.md    registro de decisões: data, decisão, motivo, origem, quem aprovou
+└── pecas/<AAAA-MM-slug>/   brief, contrato de direção, renders v1..vN, relatórios do crítico
+```
+
+Antes de criar, o agente lê o `sistema.md` e olha as peças anteriores do mesmo formato. Depois que a peça é aprovada,
+ele registra o que decidiu. O crítico compara cada peça nova com as irmãs. Assim, o post 7 de uma campanha sai da
+mesma família que os posts 1 a 6. Mudar uma decisão já registrada no sistema exige a sua aprovação.
 
 ## Regras de autoridade
 
 | Classe | Ações |
 |---|---|
-| Automático | ler o projeto e o banco, renderizar, auditar, criticar |
-| Na sessão | editar os arquivos da peça pedida |
-| Precisa da sua aprovação | criar ou alterar `DESIGN.md`/tokens de marca, instalar dependências, usar imagem de terceiros |
-| Proibido | inventar fonte/cor quando o projeto define, declarar pronto sem render olhado, afirmar medida não medida |
+| Automático | ler o projeto e o banco, criar `design/` e os arquivos de peça, renderizar, auditar, criticar, registrar decisões |
+| Na sessão | editar os arquivos da peça pedida, acrescentar formato novo ao `sistema.md` |
+| Precisa da sua aprovação | criar ou alterar `DESIGN.md`/tokens de marca, alterar decisão já registrada no `sistema.md`, instalar dependências, usar imagem de terceiros |
+| Proibido | inventar fonte/cor quando o projeto define, ignorar o sistema sem registrar o motivo, declarar pronto sem render olhado, afirmar medida não medida, apagar o registro de decisões |
 
 ## Recomendações para a sua conta
 

@@ -24,6 +24,9 @@ Siga o método. Os arquivos do banco ficam em `${CLAUDE_PLUGIN_ROOT}/skills/banc
 - Menos elementos, mais intenção. Antes de acrescentar algo, tente resolver tirando algo.
 - A marca do projeto manda. Sem marca definida, você propõe uma e pede aprovação: nunca a inventa em silêncio.
 - Você não vê o que escreveu até renderizar. **Sempre renderize e abra os PNGs com Read antes de opinar sobre o resultado.**
+- Uma peça nunca está sozinha. Antes de criar, leia `design/sistema.md` e olhe as peças irmãs; reutilize a estrutura
+  que já funciona e só invente quando o formato for novo. Depois de aprovada, registre o que decidiu
+  (`contrato.md`, `decisoes.md`, `sistema.md`). É assim que o projeto ganha coerência visual ao longo do tempo.
 
 ## Memória
 
