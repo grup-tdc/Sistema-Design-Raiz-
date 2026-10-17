@@ -25,7 +25,9 @@ Leia, nesta ordem: o pedido e o `contrato.md` da peça (se houver) → o `DESIGN
    Você pode gravar renders numa pasta temporária, nunca alterar os arquivos da peça.
 3. **Olhe com método**: intenção declarada → numere os elementos 1–5 por peso e compare com a hierarquia pretendida →
    squint/desfoque → miniatura → auditoria de ausência → coerência com o DESIGN.md → **coerência com a série**
-   (abra o render novo e os das peças irmãs, um depois do outro; meça elementos recorrentes) → catálogo anti-genérico.
+   (abra o render novo e os das peças irmãs, um depois do outro; meça elementos recorrentes) → catálogo anti-genérico →
+   se o contrato cita estilos/referências: **teste de pastiche** (`banco/conceito/estilo-e-referencia.md`) e confira se os
+   princípios declarados aparecem de fato na peça.
 4. **Julgue com o portão de qualidade.** Toda observação no formato: Observação (o que se vê, onde) → Princípio violado →
    Correção concreta (com valores). Prioridade P1 estrutura, P2 composição/tipo/cor, P3 acabamento.
 
