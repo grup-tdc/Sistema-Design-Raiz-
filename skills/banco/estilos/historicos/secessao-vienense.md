@@ -75,6 +75,6 @@ Não combina: marcas infantis de tom solto, esporte radical, comida rápida, com
 - **Joseph Maria Olbrich:** Pavilhão da Secessão (Viena, 1898).
 - **Bertold Löffler:** cartazes do Cabaret Fledermaus (1907).
 - Livros: os listados em `fontes`.
-- Acervos: MAK (https://sammlung.mak.at/), ANNO/ÖNB (https://anno.onb.ac.at/), Wolfsonian (https://digital.wolfsonian.org/), MoMA (https://www.moma.org/collection/), Leopold Museum (https://www.leopoldmuseum.org/).
+- Acervos: MAK (https://sammlung.mak.at/), ANNO/ÖNB (https://anno.onb.ac.at/), Wolfsonian (https://digital.wolfsonian.org/), MoMA (https://www.moma.org/collection/), Leopold Museum, coleção online (https://onlinecollection.leopoldmuseum.org/en/).
 
 A ficha é repertório. Se o DESIGN.md do projeto definir outra direção, ele vence.

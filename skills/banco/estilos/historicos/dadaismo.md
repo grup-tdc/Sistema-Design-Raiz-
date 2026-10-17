@@ -3,7 +3,7 @@ titulo: Dadaísmo
 periodo: 1916–c. 1924 · Zurique (Cabaret Voltaire), Berlim, Colônia, Hannover, Paris, Nova York
 palavras_de_carater: acaso, absurdo, colagem, fotomontagem, ruptura, ironia, antiarte, caos, protesto, ready-made
 quando_consultar: Quando a ideia pede ruptura, crítica, humor ácido ou colagem que questiona a própria mensagem, e é preciso saber dosar o caos para que ele ainda comunique.
-fontes: Hans Richter, "Dadá: arte e antiarte" (Martins Fontes, 1993); Philip B. Meggs e Alston W. Purvis, "História do design gráfico" (Cosac Naify, 2009); Richard Hollis, "Design gráfico: uma história concisa" (Martins Fontes); Leah Dickerman (org.), "Dada" (National Gallery of Art / D.A.P., 2005); Johanna Drucker, "The Visible Word: Experimental Typography and Modern Art, 1909–1923" (University of Chicago Press, 1994); International Dada Archive, University of Iowa https://dada.lib.uiowa.edu/ e Digital Dada Library https://sdrc.lib.uiowa.edu/dada/digitaldadalib/index.html; MoMA https://www.moma.org/collection/; Internet Archive https://archive.org/
+fontes: Hans Richter, "Dadá: arte e antiarte" (Martins Fontes, 1993); Philip B. Meggs e Alston W. Purvis, "História do design gráfico" (Cosac Naify, 2009); Leah Dickerman (org.), "Dada: Zurich, Berlin, Hannover, Cologne, New York, Paris" (National Gallery of Art / D.A.P., 2005); Johanna Drucker, "The Visible Word: Experimental Typography and Modern Art, 1909–1923" (University of Chicago Press, 1994); International Dada Archive, University of Iowa https://dada.lib.uiowa.edu/ e Digital Dada Library https://sdrc.lib.uiowa.edu/dada/digitaldadalib/index.html; MoMA https://www.moma.org/collection/; Internet Archive https://archive.org/
 ---
 # Dadaísmo
 
@@ -75,7 +75,6 @@ Não combina: bancos, saúde, jurídico tradicional, produtos que exigem confian
 - **Tristan Tzara:** "Sept manifestes Dada" (1924); revista "Dada" (Zurique, 1917–1921).
 - **Marcel Duchamp:** "A Fonte" (1917); "L.H.O.O.Q." (1919).
 - **Francis Picabia:** revista "391" (1917–1924).
-- **El Lissitzky** (ponte com o construtivismo): projeto gráfico de "Para a voz", de Maiakóvski (1923).
 - Livros: os listados em `fontes`.
 - Acervos: International Dada Archive (https://dada.lib.uiowa.edu/), MoMA (https://www.moma.org/collection/), Letterform Archive (https://letterformarchive.org/online-archive/), Internet Archive (https://archive.org/).
 

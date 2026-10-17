@@ -76,6 +76,6 @@ Não combina: saúde, luto, serviços que precisam passar calma e confiança, ma
 - **Umberto Boccioni:** "Formas únicas da continuidade no espaço" (1913).
 - **Tullio d'Albisola e Bruno Munari:** "L'anguria lirica" (livro de folhas de lata, 1934).
 - Livros: os listados em `fontes`.
-- Acervos: MoMA (https://www.moma.org/collection/), Letterform Archive (https://letterformarchive.org/online-archive/), Internet Archive (https://archive.org/), Mart – Museo di arte moderna e contemporanea di Trento e Rovereto, que mantém a Casa d'Arte Futurista Depero (https://www.mart.trento.it/).
+- Acervos: MoMA (https://www.moma.org/collection/), Letterform Archive (https://letterformarchive.org/online-archive/), Internet Archive (https://archive.org/), Mart – Museo di arte moderna e contemporanea di Trento e Rovereto, que mantém a Casa d'Arte Futurista Depero (https://www.mart.tn.it/).
 
 A ficha é repertório. Se o DESIGN.md do projeto definir outra direção, ele vence.
